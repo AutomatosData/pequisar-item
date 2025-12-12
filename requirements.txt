@@ -1,5 +1,6 @@
 streamlit
 pandas
 requests
-tabula-py
-JPype1
+camelot-py
+opencv-python-headless
+ghostscript
