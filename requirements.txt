@@ -2,5 +2,5 @@ streamlit
 pandas
 requests
 camelot-py
-opencv-python-headless
 ghostscript
+opencv-python-headless
